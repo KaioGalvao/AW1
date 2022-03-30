@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Guitar Hero</title>
+		<meta charset = "utf-8"/>
+		<font face = "sans-serif">
+	</head>
+	<body bgcolor = "LightBlue" style="text-align: center;">
+		<h1><font size = 30 color = "White"> Guitar Hero</font></h1>
+		<hr color = "LightGreen">
+		<p>Guitar Hero e uma serie popular de videogames de genero musical, <i>publicado</i> pela RedOctane 		em parceria com a <u>Activision</u> e desenvolvido inicialmente pela empresa <font size = 10 				color = "red">Harmonix Music Systems</font> ate o ano de 2007, <b><i>passando</i></b> a continuacao da serie para 			a famosa empresa <b>Neversoft</b></p>
+
+	</body>
+</html>
+
+
+
+	
+	
